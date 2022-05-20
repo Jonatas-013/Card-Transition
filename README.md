@@ -1,0 +1,1 @@
+Seguindo os estudo de HTML e CSS, desenvolvi esse card utilizando os conceitos de transition pelo CSS.
